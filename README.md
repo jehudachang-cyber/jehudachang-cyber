@@ -1,19 +1,19 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3864,100:4F8EF7&height=200&section=header&text=Hi,%20I'm%20Jehuda%20👋&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Data%20Analytics%20Undergraduate%20%7C%20Sunway%20University&descAlignY=58&descSize=18" />
+  <a href="https://portfoliowebsite-nu-eight.vercel.app/"><img src="header.png" alt="Jehuda Chang" width="100%" /></a>
 </p>
 
 <!-- Typing line -->
 <p align="center">
   <a href="https://portfoliowebsite-nu-eight.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4F8EF7&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;SQL+%7C+Python+%7C+Power+BI;Building+with+AI+and+Google+Cloud;Events+Director+%40+Sunway+Analytics+Society" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&pause=1200&color=00E676&center=true&vCenter=true&width=600&lines=Turning+raw+data+into+decisions;SQL+%7C+Python+%7C+Power+BI;Building+with+AI+and+Google+Cloud;Events+Director+%40+Sunway+Analytics+Society" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jehudachang/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://portfoliowebsite-nu-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1F3864?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:jehudachang@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jehudachang/"><img src="https://img.shields.io/badge/LinkedIn-050607?style=for-the-badge&logo=linkedin&logoColor=00E676" /></a>
+  <a href="https://portfoliowebsite-nu-eight.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00E676?style=for-the-badge&logo=vercel&logoColor=050607" /></a>
+  <a href="mailto:jehudachang@gmail.com"><img src="https://img.shields.io/badge/Email-050607?style=for-the-badge&logo=gmail&logoColor=FFB74D" /></a>
 </p>
 
 ---
@@ -65,14 +65,18 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jehudachang-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehudachang-cyber&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jehudachang-cyber&show_icons=true&bg_color=050607&title_color=00E676&text_color=F2EEE3&icon_color=FFB74D&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jehudachang-cyber&layout=compact&bg_color=050607&title_color=00E676&text_color=F2EEE3&icon_color=FFB74D&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jehudachang-cyber&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jehudachang-cyber&bg_color=050607&color=F2EEE3&line=00E676&point=FFB74D&area=true&area_color=00E676&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F8EF7,100:1F3864&height=100&section=footer" />
+  <img src="https://streak-stats.demolab.com?user=jehudachang-cyber&background=050607&ring=00E676&fire=FFB74D&currStreakLabel=00E676&sideLabels=F2EEE3&currStreakNum=F2EEE3&sideNums=F2EEE3&dates=F2EEE399&stroke=00E67633&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050607,100:00E676&height=100&section=footer" />
 </p>
